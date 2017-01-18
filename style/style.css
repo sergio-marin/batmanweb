@@ -21,7 +21,7 @@ body {
 	font-size: 16px;
 }
 
-.navbar > .navbar-list > .navbar-item.active {
+.navbar > .navbar-list > .navbar-item.active > .navbar-link {
 	color: #f7f7f7;
 	background-color: #a4a4a4;
 }
