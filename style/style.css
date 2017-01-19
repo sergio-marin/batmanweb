@@ -125,6 +125,17 @@ body {
 	flex-grow: 1;
 }
 
+.footer {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.92);
+    height: 50px;
+    color: #F7F7F7;
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+}
+
 .clearfix:after {
 	content: " "; /* Older browser do not support empty content */
 	visibility: hidden;
